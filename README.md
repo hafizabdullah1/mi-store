@@ -1,4 +1,4 @@
 # MiStore Clone
 
 ### Live Project Demo
-### [View project Demo](https://hafizabdullah1.github.io/mi-store/)
+### [View project Demo](https://mi-store-pk.vercel.app)
